@@ -1,1 +1,1 @@
-# marcelo-confi-server
+# marcelo-config-server
